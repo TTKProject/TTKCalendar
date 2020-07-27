@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>images/flag-cn.ico</file>
+        <file>images/today.ico</file>
+    </qresource>
+</RCC>
